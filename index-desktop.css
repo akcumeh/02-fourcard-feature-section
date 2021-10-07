@@ -1,0 +1,90 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    
+    background-color: hsl(0, 0%, 98%);
+    }
+    div#texth{
+        position: absolute;
+        left: 34.7222vw;
+        top: 10vh;
+        width: 30.5556vw;
+        height: 9.4565vh;
+        margin: 0;
+        
+        font-family: "Poppins Thin";
+        font-size: 2.08333vw;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        text-align: center;
+        
+        color: hsl(234, 12%, 34%);
+    }
+    div#texth b{
+        font-family: "Poppins SemiBold";
+        font-weight: 600;
+    }
+    div#textb{
+        position: absolute;
+        left: 32.291667vw;
+        top: 22.2343vh;
+        width: 35.13889vw;
+        height: 4.5652vh;
+        margin: 0;
+        
+        font-family: "Poppins Regular";
+        font-weight: 200;
+        font-size: 1.041667vw;
+        letter-spacing: normal;
+        text-align: center;
+        
+        color: hsl(229, 6%, 66%);
+    }
+    div#box1{
+        position: absolute;
+        left: 11.38889vw;
+        top: 49.0217vh;
+        width: 24.305556vw;
+        height: 27.1739vh;
+        border-radius: 0.75vh;
+        border-top: 0.5vh solid hsl(180, 62%, 55%);
+        box-shadow: 0 0.69444vw 0.69444vw hsl(213, 39%, 89%);
+
+        background-color: white;
+    }
+    div#box1 div#h{
+        position: absolute;
+        left: 2.2222vw;
+        top: 3.80435vh;
+        width: 7.5vw;
+        height: 1.6304vh;
+
+        background-color: inherit;
+        color: hsl(234, 12%, 34%);
+
+        font-family: "Poppins SemiBold";
+        font-size: 1.38889vw;
+        font-weight: 400;
+    }
+    div#box1 div#b{
+        position: absolute;
+        left: 2.2222vw;
+        top: 9.2391vh;
+        width: 15.7638889vw;
+        height: 3.5870vh;
+
+        background-color: inherit;
+        color: hsl(229, 6%, 66%);
+
+        font-family: "Poppins Regular";
+        font-size: 0.86805556vw;
+        font-weight: 200;
+        letter-spacing: 0.02em;
+    }
+    div#box1 img{
+        position: absolute;
+        left: 17.569444vw;
+        top: 16.6304vh;
+        width: 4.5138889vw;
+        height: 7.0652vh;
+    }
