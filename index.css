@@ -12,7 +12,7 @@
         height: 9.4565vh;
         margin: 0;
         
-        font-family: "Poppins Thin";
+        font-family: "Poppins Thin", sans-serif;
         font-size: 2.08333vw;
         font-weight: 600;
         letter-spacing: 0.02em;
@@ -21,7 +21,7 @@
         color: hsl(234, 12%, 34%);
     }
     div#headln1 div#headln2{
-        font-family: "Poppins SemiBold";
+        font-family: "Poppins SemiBold", sans-serif;
         font-weight: 600;
     }
     div#headln3{
@@ -31,7 +31,7 @@
         width: 35.15vw;
         height: 4.3384vh;
 
-        font-family: "Poppins Regular";
+        font-family: "Poppins Regular", sans-serif;
         font-size: 1.025vw;
         font-weight: 200;
         letter-spacing: 0.02em;
@@ -92,7 +92,7 @@
         left: 2.2222vw;
         top: 4vh;
 
-        font-family: "Poppins SemiBold";
+        font-family: "Poppins SemiBold", sans-serif;
         font-size: 1.3889vw;
         font-weight: 400;
         letter-spacing: normal;
@@ -105,7 +105,7 @@
         top: 5.75vh;
         max-width: 15.76vw;
 
-        font-family: "Poppins Regular";
+        font-family: "Poppins Regular", sans-serif;
         font-size: 0.75vw;
         font-weight: 200;
         letter-spacing: 0.025em;
@@ -127,7 +127,7 @@
         width: 100vw;
         top: 100vh;
         
-        font-family: "Poppins ExtraLight";
+        font-family: "Poppins ExtraLight", sans-serif;
         font-weight: 600;
         font-size: 0.7639vw;
         text-align: center;
@@ -153,7 +153,7 @@
         width: 90vw;
         margin: auto;
         
-        font-family: "Poppins Thin";
+        font-family: "Poppins Thin", sans-serif;
         font-size: 6vw;
         font-weight: 600;
         letter-spacing: 0.02em;
@@ -162,7 +162,7 @@
         color: hsl(234, 12%, 34%);
     }
     div#headln1 div#headln2{
-        font-family: "Poppins SemiBold";
+        font-family: "Poppins SemiBold", sans-serif;
         font-weight: 600;
     }
     div#headln3{
@@ -171,7 +171,7 @@
         max-width: 91%;
         margin: auto;
         
-        font-family: "Poppins Light";
+        font-family: "Poppins Light", sans-serif;
         font-size: 3.75vw;
         font-weight: 500;
         letter-spacing: 0.025em;
@@ -232,7 +232,7 @@
         left: 8.95vw;
         top: 4.3vh;
 
-        font-family: "Poppins SemiBold";
+        font-family: "Poppins SemiBold", sans-serif;
         font-size: 6.15vw;
         font-weight: 400;
         letter-spacing: normal;
@@ -245,7 +245,7 @@
         top: 4.3vh;
         max-width: 77%;
 
-        font-family: "Poppins Regular";
+        font-family: "Poppins Regular", sans-serif;
         font-size: 2.75vw;
         font-weight: 200;
         letter-spacing: 0.03em;
@@ -265,7 +265,7 @@
         width: 100vw;
         top: 180vh;
         
-        font-family: "Poppins ExtraLight";
+        font-family: "Poppins ExtraLight", sans-serif;
         font-weight: 600;
         font-size: 2.5vw;
         text-align: center;
