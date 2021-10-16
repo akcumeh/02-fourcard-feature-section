@@ -1,21 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600&display=swap');
-@import url("./TrueType\ Font\ -\ Poppins/");
-
-@media only screen and (min-width: 900px) and (min-height: 500px) {
-    body{
-        overflow: scroll;
-    }
-    div#headln1{
-        position: absolute;
-        left: 34.7222vw;
-        top: 10vh;
-        width: 30.5556vw;
-        height: 9.4565vh;
-        margin: 0;
-        
-        font-family: "Poppins Thin", sans-serif;
-        font-size: 2.08333vw;
-        font-weight: 600;
 @import url("./TrueType Font - Poppins/");
 
 @media only screen and (min-width: 250px) and (max-width: 899px) {
